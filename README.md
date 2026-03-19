@@ -5,3 +5,5 @@ The Autonomous Driving Technologies Specialization Program aims to train data pr
 In this context, the code for my assignments and final project from the training I received in 2025 is included.
 
 Artificial intelligence was used to support optimization and refinement during the code writing process.
+
+https://www.milliteknolojiakademisi.gov.tr/tr/otonom-surus-teknolojileri-uzmanlik-programi
