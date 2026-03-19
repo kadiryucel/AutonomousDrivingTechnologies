@@ -1,0 +1,17 @@
+Taşıt Modelleme ve İleri Sürüş Destek Sistemleri
+
+"Intelligent Improved Acceleration Function" formulleri kullanılarak seyir sistemi geliştirilmiştir:
+
+Cruise speed = 100km/h
+𝛿 = 2
+a = 2, b = 2,
+T = 1.5 s
+𝑠0 = 2 m
+Vego = ego_vehicle_velocity.mat
+Actual distance = actual_distance.mat
+***M.K.S. birim sistemi kullanılmıştır
+
+Source:  Treiber, M., & Kesting, A. (2013). Car-following models based on driving strategies. 
+	In Traffic flow dynamics (pp. 181-204). Springer, Berlin, Heidelberg
+
+
